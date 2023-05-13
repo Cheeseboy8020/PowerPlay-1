@@ -14,7 +14,6 @@ import teamcode.v1.commands.sequences.HomeSequence
 import teamcode.v1.commands.subsystems.ClawCmds
 import teamcode.v1.commands.subsystems.DriveCmd
 import teamcode.v1.constants.*
-import teamcode.v1.subsystems.Lights
 
 
 @TeleOp
